@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eduard4002
-- 👀 I’m interested in Game Development with C# and Unity
-- 🌱 I’m currently learning more about Unity and how to use it to my advantage
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning more about C++ and SFML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
