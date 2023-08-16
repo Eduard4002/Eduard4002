@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eduard4002
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning more about C++ and SFML
+- 🌱 I’m currently learning more about C++ and UE5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
